@@ -1,19 +1,25 @@
 {
-  "name": "alnux/nette-breadcrumb",
+  "name": "jvitasek/nette-breadcrumb",
   "description": "Simple Breadcrumbs navigation generator for Nette Framework",
   "keywords": [
     "nette",
     "breadcrumbs",
     "generator"
   ],
-  "homepage": "https://github.com/alnux/nette-breadcrumb",
+  "homepage": "https://github.com/jvitasek/nette-breadcrumb",
   "license": "MIT",
   "authors": [
     {
       "name": "David Zadražil",
-      "email": "me@davidzadrazil.cz",
+      "email": "me@davidzadrazil.cz"
+    },
+    {
       "name": "Leonardo Allende",
       "email": "alnux@ya.ru"
+    },
+    {
+      "name": "Jakub Vitásek",
+      "email": "me@jvitasek.cz"
     }
   ],
   "minimum-stability": "alpha",
